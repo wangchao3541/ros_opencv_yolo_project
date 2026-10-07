@@ -1,0 +1,19 @@
+# 权重文件
+*.pt
+*.pth
+
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# YOLO训练输出
+runs/
+
+# 虚拟环境
+.venv/
+venv/
+
+# 日志、临时文件
+*.log
+*.tmp
